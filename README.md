@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 ¡Hola, soy Santiago Barrionuevo!
 
-<!--
-**santiagobarrionuevo9/santiagobarrionuevo9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un **desarrollador Full Stack** con experiencia en **Angular, Java, ASP.NET Core y C#**. Me encanta crear soluciones tecnológicas innovadoras, documentando y optimizando mi codigo siempre cuidando la funcionalidad y los requerimientos prestablecidos.  
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías y herramientas
+- **Frontend:** Angular, TypeScript, HTML, CSS, JavaScript  
+- **Backend:** Java (Spring Boot), ASP.NET Core, C#  
+- **Bases de datos:** MySQL, PostgreSQL, SQL Server  
+- **Otros:** Docker, RabbitMQ, Entity Framework, AutoMapper  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Proyectos destacados
+🔹 [**Gambeta Aficion**](https://github.com/santiagobarrionuevo9/Gambeta_Aficion) – Plantilla web de fútbol con diseño responsivo.  
+🔹 Más proyectos en camino... 🚀  
+
+## 📫 Contáctame
+📧 santiagobarrionuevo9@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/santiago-barrionuevo-4a1390241/)  
+
+
+
+
