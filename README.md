@@ -9,7 +9,7 @@ Soy un **desarrollador Full Stack** con experiencia en **Angular, Java, ASP.NET 
 - **Otros:** Docker, RabbitMQ, Entity Framework, AutoMapper  
 
 ## 📌 Proyectos destacados
-🔹 [**Gambeta Aficion**](https://github.com/santiagobarrionuevo9/Gambeta_Aficion) – Plantilla web de fútbol con diseño responsivo.  
+🔹 [**BailaConmigo**](https://github.com/santiagobarrionuevo9/BailaConmigo_app) – Aplicacion para encontrar parejas de baile, gestion de eventos y clases.  
 🔹 Más proyectos en camino... 🚀  
 
 ## 📫 Contáctame
