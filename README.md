@@ -1,12 +1,12 @@
 # 👋 ¡Hola, soy Santiago Barrionuevo!
 
-Soy un **desarrollador Full Stack** con experiencia en **Angular, Java, ASP.NET Core y C#**. Me encanta crear soluciones tecnológicas innovadoras, documentando y optimizando mi codigo siempre cuidando la funcionalidad y los requerimientos prestablecidos.  
+Desarrollador Full Stack con experiencia en Angular, Java, ASP.NET Core y C#. Me especializo en crear soluciones eficientes, escalables y fáciles de mantener, aplicando buenas prácticas y patrones de diseño. Busco mi primera oportunidad profesional para aportar valor y seguir creciendo.  
 
 ## 🚀 Tecnologías y herramientas
-- **Frontend:** Angular, TypeScript, HTML, CSS, JavaScript  
-- **Backend:** Java (Spring Boot), ASP.NET Core, C#  
-- **Bases de datos:** MySQL, PostgreSQL, SQL Server  
-- **Otros:** Docker, RabbitMQ, Entity Framework, AutoMapper  
+- Frontend: Angular, TypeScript, HTML, CSS, JavaScript
+- Backend: Java (Spring Boot), ASP.NET Core, C#
+- Bases de datos: MySQL, SQL Server
+- Otros: Docker, RabbitMQ, Entity Framework, AutoMapper 
 
 ## 📌 Proyectos destacados
 🔹 [**BailaConmigo**](https://github.com/santiagobarrionuevo9/BailaConmigo_app) – Aplicacion para encontrar parejas de baile, gestion de eventos y clases.  
