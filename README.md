@@ -12,8 +12,7 @@ Desarrollador Full Stack con experiencia en Angular, Java, ASP.NET Core y C#. Me
 
 **DevOps:** ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?logo=githubactions&logoColor=white)  
 
-### 📊 Estadísticas de GitHub
-![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=santiagobarrionuevo9&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiagobarrionuevo9&layout=compact&theme=radical)
 
 ## 📌 Proyectos destacados
 🔹 [**BailaConmigo**](https://github.com/santiagobarrionuevo9/BailaConmigo_app) – Aplicacion para encontrar parejas de baile, gestion de eventos y clases.  
