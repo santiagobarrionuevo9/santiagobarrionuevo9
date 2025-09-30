@@ -56,7 +56,7 @@ Desarrollador Full Stack con experiencia en Angular, Java, ASP.NET Core y C#. Me
 
 ## 🐍 Mis contribuciones en movimiento  
 
-![Snake animation](https://github.com/santiagobarrionuevo9/santiagobarrionuevo9/blob/output/github-contribution-grid-snake.svg)  
+![Snake animation](https://github.com/santiagobarrionuevo9/santiagobarrionuevo9/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
