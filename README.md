@@ -33,7 +33,7 @@ Desarrollador Full Stack con experiencia en Angular, Java, ASP.NET Core y C#. Me
 
 ## 📌 Proyectos Destacados  
 
-- **[Gave – Mini Ecommerce](https://github.com/santiagobarrionuevo9/Gave)**  
+- **[Gave – Mini Ecommerce](https://github.com/santiagobarrionuevo9/gave-ecommerce)**  
   Mini ecommerce full-stack (Angular 18 + Spring Boot). Catálogo con filtros y categorías, carrito, CRUD de productos, gestión de stock, autenticación JWT y API REST.
 
 - **[BailaConmigo](https://github.com/santiagobarrionuevo9/BailaConmigo_app)**  
